@@ -1,2 +1,1 @@
-# rsschool-cv
-CV for RS School
+https://syvnvrsk.github.io/rsschool-cv/cv
